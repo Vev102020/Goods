@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ReactGoods/static/css/main.a3adaefc.chunk.css",
-    "main.js": "/ReactGoods/static/js/main.9760dfda.chunk.js",
-    "main.js.map": "/ReactGoods/static/js/main.9760dfda.chunk.js.map",
-    "runtime-main.js": "/ReactGoods/static/js/runtime-main.a7ec6008.js",
-    "runtime-main.js.map": "/ReactGoods/static/js/runtime-main.a7ec6008.js.map",
-    "static/js/2.e40ba327.chunk.js": "/ReactGoods/static/js/2.e40ba327.chunk.js",
-    "static/js/2.e40ba327.chunk.js.map": "/ReactGoods/static/js/2.e40ba327.chunk.js.map",
-    "static/js/3.66ef2370.chunk.js": "/ReactGoods/static/js/3.66ef2370.chunk.js",
-    "static/js/3.66ef2370.chunk.js.map": "/ReactGoods/static/js/3.66ef2370.chunk.js.map",
-    "index.html": "/ReactGoods/index.html",
-    "static/css/main.a3adaefc.chunk.css.map": "/ReactGoods/static/css/main.a3adaefc.chunk.css.map",
-    "static/js/2.e40ba327.chunk.js.LICENSE.txt": "/ReactGoods/static/js/2.e40ba327.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ReactGoods/static/media/arrow-down.5b0512cf.svg",
-    "static/media/close.c6d85228.svg": "/ReactGoods/static/media/close.c6d85228.svg"
+    "main.css": "/Goods/static/css/main.4cc9fafb.chunk.css",
+    "main.js": "/Goods/static/js/main.9760dfda.chunk.js",
+    "main.js.map": "/Goods/static/js/main.9760dfda.chunk.js.map",
+    "runtime-main.js": "/Goods/static/js/runtime-main.67e02215.js",
+    "runtime-main.js.map": "/Goods/static/js/runtime-main.67e02215.js.map",
+    "static/js/2.e40ba327.chunk.js": "/Goods/static/js/2.e40ba327.chunk.js",
+    "static/js/2.e40ba327.chunk.js.map": "/Goods/static/js/2.e40ba327.chunk.js.map",
+    "static/js/3.66ef2370.chunk.js": "/Goods/static/js/3.66ef2370.chunk.js",
+    "static/js/3.66ef2370.chunk.js.map": "/Goods/static/js/3.66ef2370.chunk.js.map",
+    "index.html": "/Goods/index.html",
+    "static/css/main.4cc9fafb.chunk.css.map": "/Goods/static/css/main.4cc9fafb.chunk.css.map",
+    "static/js/2.e40ba327.chunk.js.LICENSE.txt": "/Goods/static/js/2.e40ba327.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Goods/static/media/arrow-down.5b0512cf.svg",
+    "static/media/close.c6d85228.svg": "/Goods/static/media/close.c6d85228.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a7ec6008.js",
+    "static/js/runtime-main.67e02215.js",
     "static/js/2.e40ba327.chunk.js",
-    "static/css/main.a3adaefc.chunk.css",
+    "static/css/main.4cc9fafb.chunk.css",
     "static/js/main.9760dfda.chunk.js"
   ]
 }
