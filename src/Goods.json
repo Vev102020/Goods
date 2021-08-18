@@ -1,0 +1,47 @@
+[
+    {
+      "src": "https://resopal-trading.ru/wp-content/uploads/2019/11/0300-HW.jpg",
+      "price": 250,
+      "bigUrl":
+        "https://is4.revolveassets.com/images/p4/n/z/ALOR-WM144_V1.jpg",
+      "name": "Майка 2476 (Красная)",
+      "color": "Красный",
+      "id": 1
+    },
+    {
+      "src": "https://c.pxhere.com/photos/f4/26/sky_blue_blue_sky_background_desktop_background_wallpaper_background_image_partly_cloudy-1416279.jpg!d",
+      "price": 450,
+      "bigUrl": 
+      "https://cdn1.ozone.ru/s3/multimedia-i/6041485842.jpg",
+      "name": "Майка 9012 (Голубая)",
+      "color": "Голубой",
+      "id": 2
+    },
+    {
+      "src": "https://archive.org/services/img/jamendo-082497/full/pct:500/0/default.jpg",
+      "price": 500,
+      "bigUrl":
+        "https://corsetshop.ru/image/data/pars/Giulia/13261-green-sea-gul-0.jpg",
+      "name": "Майка 4672 (Зеленая)",
+      "color": "Зеленый",
+      "id": 3
+    },
+    {
+      "src": "http://apikabu.ru/img/682f58.png",
+      "price": 200,
+      "bigUrl":
+        "https://cdn1.ozone.ru/multimedia/1019969691.jpg",
+      "name": "Майка 1188 (Серая)",
+      "color": "Серый",
+      "id": 4
+    },
+    {
+      "src": "https://www.familybedding.com/img/p/l/b/0/e/8/132648/Purple_Solid_Color_Pillowcase.jpg",
+      "price": 350,
+      "bigUrl":
+        "https://cdn1.ozone.ru/multimedia/1020775691.jpg",
+      "name": "Майка 1436 (Фиолетовая)",
+      "color": "Фиолетовый",
+      "id": 5
+    }
+  ]
